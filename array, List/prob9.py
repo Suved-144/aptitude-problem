@@ -1,5 +1,5 @@
 #swaping without any third variable
-'''
+
 a = 8
 b = 5
 
@@ -8,7 +8,7 @@ b = a - b
 a = a - b
 print("a =",a )
 print("b =", b)
-'''
+
 '''
 a =8
 b = 5
