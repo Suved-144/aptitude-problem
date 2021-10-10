@@ -20,6 +20,8 @@
 #           return False
 #        else:
 #            return True
+#    def isclose(day):
+#        return sunday
 
 #zishan = car("CNG","Four",500)
 #print(car.isopen('t'))
