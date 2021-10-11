@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "mahesh gaikwad",
+        "age" : 21,
+        "gender" : "male"
+    },
+    {
+        "name" : "Suved Appa",
+        "age" : 20,
+        "gender" : "male"
+    },
+    {
+        "name" : "sonal kulkarni",
+        "age" : 25,
+        "gender" : "female"
+    },
+    {
+        "name" : "rutuja more",
+        "age" : 17,
+        "gender" : "female"
+    },
+    {
+        "name" : "kunal Gunjal",
+        "age" : 22,
+        "gender" : "female"
+    },
+    {
+        "name" : "monster mahi",
+        "age" : 100,
+        "gender" : "male"
+    }
+]
